@@ -12,7 +12,7 @@ Non-seasonal order (p, d, q): Same as ARIMA.
 Seasonal order (P, D, Q, s): Specify seasonal AR, I, MA terms, and seasonality period.
 Seasonal parameters: List estimated seasonal coefficients.
 
-**Model Performance**
+**Model Performance**:
 
 ![image](https://github.com/Deepakkori45/ARIMA-SARIMA/assets/111627339/9a78415e-5c61-4d19-ade9-3f79191616d7)
 
