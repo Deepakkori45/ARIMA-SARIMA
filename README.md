@@ -6,11 +6,13 @@ In this analysis, I tackled the challenge of forecasting airline passenger numbe
 **ARIMA:**
 Order (p, d, q): Specify the values for AR, I, and MA terms.
 Parameters: List estimated coefficients and their interpretations.
+
 **SARIMA:**
 Non-seasonal order (p, d, q): Same as ARIMA.
 Seasonal order (P, D, Q, s): Specify seasonal AR, I, MA terms, and seasonality period.
 Seasonal parameters: List estimated seasonal coefficients.
 
 **Model Performance**
+
 ![image](https://github.com/Deepakkori45/ARIMA-SARIMA/assets/111627339/9a78415e-5c61-4d19-ade9-3f79191616d7)
 
