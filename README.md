@@ -1,4 +1,4 @@
-#  Airline Passenger Forecasting with ARIMA and SARIMA Models
+![image](https://github.com/Deepakkori45/ARIMA-SARIMA/assets/111627339/42f5d4ac-ea33-4d5e-9be6-beef68e7c59b)#  Airline Passenger Forecasting with ARIMA and SARIMA Models
 Overview
 In this analysis, I tackled the challenge of forecasting airline passenger numbers using time series modeling techniques. To achieve this, I leveraged a fascinating dataset spanning from January 1949 to December 1960. Each data point represented the total number of passengers in thousands, offering valuable insights into historical travel trends.
 
@@ -14,5 +14,5 @@ Seasonal parameters: List estimated seasonal coefficients.
 
 **Model Performance**:
 
-![image](https://github.com/Deepakkori45/ARIMA-SARIMA/assets/111627339/9a78415e-5c61-4d19-ade9-3f79191616d7)
+![image](https://github.com/Deepakkori45/ARIMA-SARIMA/assets/111627339/432a94c8-a665-4b66-8e10-6a0f58f847a7)
 
