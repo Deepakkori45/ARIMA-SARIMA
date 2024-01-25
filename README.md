@@ -1,4 +1,4 @@
-![image](https://github.com/Deepakkori45/ARIMA-SARIMA/assets/111627339/42f5d4ac-ea33-4d5e-9be6-beef68e7c59b)#  Airline Passenger Forecasting with ARIMA and SARIMA Models
+# Airline Passenger Forecasting with ARIMA and SARIMA Models
 Overview
 In this analysis, I tackled the challenge of forecasting airline passenger numbers using time series modeling techniques. To achieve this, I leveraged a fascinating dataset spanning from January 1949 to December 1960. Each data point represented the total number of passengers in thousands, offering valuable insights into historical travel trends.
 
